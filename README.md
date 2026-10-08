@@ -24,6 +24,7 @@ A análise procura responder:
 - Matplotlib e Seaborn
 - SciPy
 - SQLite e SQL
+- Data Studio (Looker)
 
 O notebook pode ser executado no Google Colab ou localmente. Ele tenta carregar a planilha pública `analise_dados_limpo.xlsx`; como alternativa, aceita o mesmo arquivo na pasta `data/` ou por upload no Colab.
 
@@ -36,3 +37,9 @@ O trabalho foi organizado em cinco etapas:
 3. Análise exploratória e visualização;
 4. Análises estatísticas e consulta SQL;
 5. Síntese dos resultados, limitações e conclusão.
+
+## 4. Dashboard interativo
+
+Os principais resultados também estão disponíveis em um dashboard desenvolvido no Looker Studio.
+
+🔗 [Acessar o dashboard interativo](https://datastudio.google.com/reporting/f4ea4c87-1022-49f1-a061-530c039d7ae5)
